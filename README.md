@@ -7,3 +7,6 @@
 - Unit 3 : Simulink
 - and Further concepts about MATLAB
 - Special Part : Exercises & Past-papers Exams
+
+## Why Study MATLAB ?
+- IDK , I was forced to study Electrical Engineering , But maybe for using MATLAB Applications in another subjects.
